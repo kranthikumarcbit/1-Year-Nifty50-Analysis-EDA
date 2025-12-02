@@ -17,6 +17,7 @@ Columns: Date, Open, High, Low, Close, Volume, Daily Return, etc.
 
 The analysis focuses on price trends, volatility, returns, and correlations.
 
+<img width="629" height="345" alt="Overall_trends" src="https://github.com/user-attachments/assets/7842ef9d-badf-4f36-95b4-5008fa951f06" />
 
 
 ---
@@ -34,6 +35,7 @@ Recovery: From June–October → stable earnings & festive optimism.
 Rolling means (20-day & 50-day) captured trend reversals via Golden Cross (bullish) and Death Cross (bearish) points.
 
 
+<img width="629" height="332" alt="Short_term vs Mid term " src="https://github.com/user-attachments/assets/a4daed49-d1cb-4fce-b1c4-5e46118c59d9" />
 
 ---
 
@@ -48,6 +50,7 @@ Negative months: March & May — fiscal rebalancing, global risk-off behavior.
 Months were unordered (alphabetically), but the pattern shows clear cyclical sentiment.
 
 
+<img width="532" height="386" alt="Monthly_trends" src="https://github.com/user-attachments/assets/39b2cd52-13cf-48f9-8cb0-14267b8a3a32" />
 
 ---
 
@@ -60,6 +63,7 @@ Wednesdays & Fridays → relatively positive (institutional trades, short coveri
 Thursdays → highly volatile due to weekly F&O expiry.
 
 Confirms behavioral finance pattern — traders’ psychology shapes intraday rhythm.
+<img width="438" height="318" alt="weekly_trends" src="https://github.com/user-attachments/assets/5ea5e8c5-affc-4ccb-987d-2bf178ca8ce9" />
 
 
 
@@ -73,6 +77,7 @@ Lower volatility phases in July–October suggested investor confidence.
 
 High volatility = uncertainty; low volatility = stable trends.
 
+<img width="629" height="291" alt="daily_volitility" src="https://github.com/user-attachments/assets/6037e402-1f5f-4ad4-a3d1-7f4b0c4ed437" />
 
 
 ---
@@ -86,6 +91,7 @@ Most returns cluster around zero (small day-to-day moves).
 Fat tails (kurtosis > 3) — extreme events occur more often than random models predict.
 
 Implies market reacts faster to fear than to optimism.
+<img width="392" height="288" alt="Daily return distrubutions" src="https://github.com/user-attachments/assets/1dda1ae7-121f-40ef-88b9-5d52e4ce24bb" />
 
 
 
@@ -98,6 +104,7 @@ Open, High, Low, Close are almost perfectly correlated (>0.95).
 Volume has weak correlation (~0.2–0.4) with price — high trading doesn’t guarantee high returns.
 
 Suggests market movement is trend-driven, not volume-driven.
+<img width="407" height="341" alt="correlation" src="https://github.com/user-attachments/assets/544f9358-913b-4880-850e-a24571aec458" />
 
 
 
@@ -128,6 +135,7 @@ Biggest Drop: Likely due to macro or earnings shock
 
 Helps identify event-driven volatility days for deeper cause analysis.
 
+<img width="350" height="298" alt="overall_trends candle data" src="https://github.com/user-attachments/assets/1f51f99e-5bf9-4cf8-9878-52a65b9016de" />
 
 
 ---
